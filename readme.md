@@ -18,4 +18,4 @@ Na Imagem Acima, Temos um Formulário Para Registro De Solicitações, Onde O Po
 Na Imagem Acima Temos A Tabela De Administração Onde O Administrador Pode Ver Todas As Solicitações Feitas Pelos Clientes, Também Pode Editar E Excluir As Solicitações.
 </div>
 
-</div>
+</div> 
