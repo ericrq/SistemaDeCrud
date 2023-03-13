@@ -3,7 +3,7 @@
 # Projeto Assistencia Tecnica<br>Framework PHP
 
 <div align="justify">
-Este É Um Projeto De Uma Assistência Técnica Fictícia Que Conta Com Um Formulário Para Registro De Solicitações E Uma Tabela De Administração Para Gerenciamento Das Mesmas. Para O Desenvolvimento Do Projeto, Foi Aplicado o Conceito CRUD Utilizando PHP E MYSQL
+Este É Um Projeto De Uma Assistência Técnica Fictícia Que Conta Com Um Formulário Para Registro De Solicitações E Uma Tabela De Administração Para Gerenciamento Das Mesmas. Para O Desenvolvimento Do Projeto, Foi Aplicado o Conceito CRUD Utilizando PHP E MYSQL.
 </div><br>
 
 ![Pagina Principal](img/form_criar.jpg)
