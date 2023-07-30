@@ -9,7 +9,7 @@ Este É Um Projeto De Uma Assistência Técnica Fictícia Que Conta Com Um Formu
 ![Pagina Principal](img/form_criar.jpg)
 
 <div align="justify">
-Na Imagem Acima, Temos um Formulário Para Registro De Solicitações, Onde O Pode Ser Inserido Os Dados Pessoais E A Descrição Da Solicitação.
+Na Imagem Acima, Temos um Formulário Para Registro De Solicitações, Onde Pode Ser Inserido Os Dados Pessoais E A Descrição Da Solicitação.
 </div><br>
 
 ![Tabela Crud](img/table.jpg)
